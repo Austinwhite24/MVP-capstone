@@ -1,4 +1,3 @@
-# MVP-capstone
 
  # Description 
  yes
